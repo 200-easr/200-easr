@@ -4,6 +4,7 @@
 
 <img width="152" height="152" alt="pony-town-Hard-dance-lie-blinking-padded-4x" src="https://github.com/user-attachments/assets/34825da9-7b20-4694-87af-85d152534364" />
 
-<img width="152" height="152" alt="pony-town-Harder-dance-lie-blinking-padded-4x" src="https://github.com/user-attachments/assets/603bbdae-4536-4e14-be6c-ae22322517ae" />
+<img width="152" height="152" alt="pony-town-Harder-dance-lie-blinking-padded-4x (1)" src="https://github.com/user-attachments/assets/b0cfcb44-3135-44d7-a7d0-431769dbf16c" />
+
 
 <img width="152" height="152" alt="pony-town-Pony-dance-lie-blinking-padded-4x" src="https://github.com/user-attachments/assets/1fbd0599-6470-4a56-8a5a-db88c5a6003b" />
